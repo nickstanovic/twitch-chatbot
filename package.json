@@ -1,0 +1,17 @@
+{
+  "name": "twitch-chatbot",
+  "version": "1.0.0",
+  "description": "participate fast-moving chats automatically",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nick Stanovic",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "tmi.js": "^1.8.5"
+  }
+}
